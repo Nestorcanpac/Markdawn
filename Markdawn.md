@@ -31,4 +31,4 @@ Per a posar un enllaç a una pagina web podem fer [açó]
 
 Per a posar l'enlllaç d'una imatge d'un arbre d'una altra [forma] 
 
-! [forma]:(https://es.wikipedia.org/wiki/%C3%81rbol)
+![forma]:(https://es.wikipedia.org/wiki/%C3%81rbol)
