@@ -12,7 +12,7 @@ es vora:
 1. La _cursiva_
 2. La **negrita** 
 3. A posar un [enllaç] (www.google.com)
-4. A una ! [imatge de un arbre](https://es.wikipedia.org/wiki/%C3%81rbol)
+4. A una  [imatge de un arbre](https://es.wikipedia.org/wiki/%C3%81rbol)
 
 
 A més a més també posarem alguna cita
@@ -25,3 +25,5 @@ En aques llenguatge tenim varies formes per a escriure opcionals
 * On no apareixen números
 * I podem expresar-nos d'aquesta forma
 
+Per a posar un [enllaç a una pagina web podem fer] [açó]
+[açó][www.google.com]
