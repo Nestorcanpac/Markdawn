@@ -29,6 +29,6 @@ Per a posar un enllaç a una pagina web podem fer [açó]
 
 [açó]: (www.google.com)
 
-Per a posar l'enlllaç d'una imatge d'un arbre d'una altra [forma] 
+Per a posar l'enlllaç d'una imatge d'un arbre d'una [altra] [forma] 
 
 [forma]: (https://es.wikipedia.org/wiki/%C3%81rbol)
