@@ -25,5 +25,10 @@ En aques llenguatge tenim varies formes per a escriure opcionals
 * On no apareixen números
 * I podem expresar-nos d'aquesta forma
 
-Per a posar un [enllaç a una pagina web podem fer] [açó]
-[açó](www.google.com)
+Per a posar un enllaç a una pagina web podem fer [açó]
+
+[açó]: (www.google.com)
+
+Per a posar l'enlllaç d'una imatge d'un arbre d'una altra [forma] 
+
+[forma]: (https://es.wikipedia.org/wiki/%C3%81rbol)
