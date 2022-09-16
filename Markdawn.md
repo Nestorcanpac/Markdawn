@@ -8,6 +8,7 @@
 
 En aquest tutorial es mostrarà l'escriptura en **_Markdawn_**,
 es vora: 
+
 1. La _cursiva_
 2. La **negrita** 
 3. A posar un [enllaç] (www.google.com)
@@ -16,3 +17,11 @@ es vora:
 
 A més a més també posarem alguna cita
 > Com aquesta
+
+
+En aques llenguatge tenim varies formes per a escriure opcionals
+
+* per exemple podem fer una llista desorenda com aquesta
+* On no apareixen números
+* I podem expresar-nos d'aquesta forma
+
