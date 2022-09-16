@@ -26,4 +26,4 @@ En aques llenguatge tenim varies formes per a escriure opcionals
 * I podem expresar-nos d'aquesta forma
 
 Per a posar un [enllaç a una pagina web podem fer] [açó]
-[açó][www.google.com]
+[açó](www.google.com)
